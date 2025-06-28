@@ -1,0 +1,21 @@
+-- Requirements --
+
+1. Archers need to be able to look at their score.
+2. Number of scores should be able to be restricted by date range and by type of round.
+3. Archers need to be able to look up definitions of rounds and equivalent rounds.
+4. Archers need to be able to look up various metrics of a competition, e.g., the totals
+of all arrows of the round shot.
+5. Archers need to be able to look up various metrics of a championship, e.g., the winner
+of the championship in each category.
+6. Archers need to be able to look up their best score for a particular round.
+7. The club's best score for a round and the archer who shot it should be an available lookup.
+8. The scores have to contain arrow-by-arrow scores. Each arrow score has to be able to be
+identified in terms of which end it belongs to. Each end has to be identified as to its position
+in the round score. Within an end, arrows are always recorded highest to lowest arrow score.
+9. The recorder has to be able to enter new archers, new rounds and new competitions.
+10. Some of the scores have to be able to be linked to a competition. Some competitions have to
+be able to be identified as part of a club championship.
+11. The database has to have all the information needed to identify the archer's division.
+12. Category can be identified when the bow type is absent on user input.
+13. The equivalent rounds have to be time-dependent, and become invalidated when they change by
+Archery Australia.

@@ -1,0 +1,15 @@
+----------------------------- Archery Database Glossary -----------------------------
+
+Face: The target size.
+
+End: 6 arrows
+
+Range: The number of ends shot at a particular distance.
+
+Round: A type of competition. It's the combination of a range and face size.
+
+Class: A classification based on age, gender.
+
+Division: The type of bow used
+
+Category: It's a combination of a class and a division.
