@@ -1,0 +1,16 @@
+insert into Class values ('Open Male', 0, 255, 'M');
+insert into Class values ('Open Female', 0, 255, 'F');
+insert into Class values ('50+ Male', 50, 255, 'M');
+insert into Class values ('50+ Female', 50, 255, 'F');
+insert into Class values ('60+ Male', 60, 255, 'M');
+insert into Class values ('60+ Female', 60, 255, 'F');
+insert into Class values ('70+ Male', 70, 255, 'M');
+insert into Class values ('70+ Female', 70, 255, 'F');
+insert into Class values ('Under 21 Male', 0, 20, 'M');
+insert into Class values ('Under 21 Female', 0, 20, 'F');
+insert into Class values ('Under 18 Male', 0, 17, 'M');
+insert into Class values ('Under 18 Female', 0, 17, 'F');
+insert into Class values ('Under 16 Male', 0, 15, 'M');
+insert into Class values ('Under 16 Female', 0, 15, 'F');
+insert into Class values ('Under 14 Male', 0, 13, 'M');
+insert into Class values ('Under 14 Female', 0, 13, 'F');

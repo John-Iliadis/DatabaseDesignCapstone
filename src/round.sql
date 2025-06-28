@@ -1,0 +1,10 @@
+insert into round values ('WA90/1440');
+insert into round values ('WA70/1440');
+insert into round values ('WA60/1440');
+insert into round values ('AA50/1440');
+insert into round values ('AA40/1440');
+insert into round values ('Sydney');
+insert into round values ('Brisbane');
+insert into round values ('Adelaide');
+insert into round values ('Melbourne');
+insert into round values ('Perth');
